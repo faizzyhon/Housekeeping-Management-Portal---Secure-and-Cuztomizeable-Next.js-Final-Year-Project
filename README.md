@@ -113,6 +113,8 @@ You can deploy this app easily to:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
+## Demo Video
+[![Watch the demo](https://img.youtube.com/vi/-IKkuxE71_8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-IKkuxE71_8)
 
 ## 📩 Contact
 
