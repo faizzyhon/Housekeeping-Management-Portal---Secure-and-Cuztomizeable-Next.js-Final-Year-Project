@@ -43,10 +43,11 @@
 ---
 
 ## 📸 Screenshots
+![Screenshot 2025-06-08 034214](https://github.com/user-attachments/assets/01de4327-2e76-4bac-9478-3180db34d92c)
+![Screenshot 2025-06-08 034250](https://github.com/user-attachments/assets/f8dea4df-ae03-42df-aec7-1319ac49daac)
 
-> Add your actual images here:
+
 <p align="center">
-  <img src="https://github.com/faizzyhon/assets/blob/main/housekeeping-portal/dashboard-preview.png" alt="Dashboard Preview" width="800" />
   <br />
   <em>Dashboard Overview (Light Mode)</em>
 </p>
